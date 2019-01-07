@@ -2,7 +2,7 @@
 <body>
 <?php
 
-echo "hello I am saradha devi sundaram"; 
+echo "hello I am saradha devi"; 
 
 ?>
 </body>
