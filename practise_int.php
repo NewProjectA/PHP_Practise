@@ -1,7 +1,7 @@
 <html>
 <body>
 <?php
-echo "hi I am saradha devi"; 
+echo "hello I am saradha devi"; 
 ?>
 </body>
 </html>
